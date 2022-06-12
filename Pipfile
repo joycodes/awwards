@@ -5,6 +5,13 @@ name = "pypi"
 
 [packages]
 django = "*"
+dj-database-url = "*"
+psycopg2 = "*"
+django-crispy-forms = "*"
+django-heroku = "*"
+python-decouple = "*"
+django-bootstrap4 = "*"
+djangorestframework = "*"
 
 [dev-packages]
 
