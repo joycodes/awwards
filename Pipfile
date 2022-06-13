@@ -12,6 +12,8 @@ django-heroku = "*"
 python-decouple = "*"
 django-bootstrap4 = "*"
 djangorestframework = "*"
+gunicorn = "*"
+pillow = "*"
 
 [dev-packages]
 
