@@ -68,7 +68,7 @@ Open the application on your browser
 >* Bootstrap
 >* Python3.8
 >* Django 4.0.5
->* Cloudinary
+>* PyUploadcare 2.0.1
 >* Heroku
  
 ---

@@ -44,6 +44,8 @@ INSTALLED_APPS = [
     'app',
     'crispy_forms',
     'rest_framework',
+    'pyuploadcare.dj',
+
 ]
 
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
