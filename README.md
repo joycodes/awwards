@@ -40,7 +40,7 @@ Cloning the repository:
   
 Move to the folder and install requirements
   ```bash
-  cd Instagram
+  cd awwards
   pip install -r requirements.txt
   ```
 Setup Configurations and  Database
