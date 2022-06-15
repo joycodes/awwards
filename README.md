@@ -11,8 +11,9 @@
 ## Description
 >This is a Django application which allows users to post their projects for other users to rate according to design, usability and content 
 
-<!-- ![image](./static/images/screenshot-login.png)
-![image](./static/images/timeline.png) -->
+![image](./static/images/awwards01.png)
+![image](./static/images/awwards2.png)
+
 
 
 ---
