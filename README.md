@@ -30,7 +30,7 @@
 ---
 
 ## Live Link
-[View Site](https://.herokuapp.com/)
+[View Site](https://awwards01.herokuapp.com/)
 
 ***
 
